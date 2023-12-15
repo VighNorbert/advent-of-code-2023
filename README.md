@@ -1,6 +1,6 @@
 # Advent of Code 2023 in Typescript
 
-![AoC 2023 27/50](https://img.shields.io/badge/AoC%202023-27%2F50-orange)
+![AoC 2023 29/50](https://img.shields.io/badge/AoC%202023-29%2F50-orange)
 
 2023 fork of original code for AoC 2021 from atme: https://github.com/atme/advent-of-code-2021
 
